@@ -1,4 +1,4 @@
-# FACULDADE
+# DIRETORIA
 Integrantes :
 - José André da Costa Neto
 - Luan da Neves Monteiro Cardoso
